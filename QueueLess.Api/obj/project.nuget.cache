@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NRc8k3m7Aes=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mendo\\OneDrive\\Desktop\\QueueLess\\QueueLess.Api\\QueueLess.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mendo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.10\\microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "C:\\Users\\Mendo\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
